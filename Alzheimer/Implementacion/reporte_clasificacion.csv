@@ -1,0 +1,1280 @@
+image,actual,predicted,is_correct
+1 (16).jpg,No Impairment,Mild Impairment,False
+1 (21).jpg,No Impairment,Mild Impairment,False
+1 (28).jpg,No Impairment,No Impairment,True
+1 (33).jpg,No Impairment,No Impairment,True
+1 (35).jpg,No Impairment,Mild Impairment,False
+1 (47).jpg,No Impairment,No Impairment,True
+1 (56).jpg,No Impairment,No Impairment,True
+1 (57).jpg,No Impairment,Very Mild Impairment,False
+1 (59).jpg,No Impairment,Very Mild Impairment,False
+1 (64).jpg,No Impairment,Very Mild Impairment,False
+1 (68).jpg,No Impairment,No Impairment,True
+1 (72).jpg,No Impairment,Moderate Impairment,False
+1 (73).jpg,No Impairment,Moderate Impairment,False
+1 (74).jpg,No Impairment,Mild Impairment,False
+1 (77).jpg,No Impairment,Very Mild Impairment,False
+1 (82).jpg,No Impairment,No Impairment,True
+1 (87).jpg,No Impairment,Mild Impairment,False
+1 (9).jpg,No Impairment,Moderate Impairment,False
+1 (93).jpg,No Impairment,Moderate Impairment,False
+10 (14).jpg,No Impairment,Mild Impairment,False
+10 (16).jpg,No Impairment,Very Mild Impairment,False
+10 (21).jpg,No Impairment,Very Mild Impairment,False
+10 (23).jpg,No Impairment,Mild Impairment,False
+10 (29).jpg,No Impairment,No Impairment,True
+10 (34).jpg,No Impairment,No Impairment,True
+10 (42).jpg,No Impairment,Mild Impairment,False
+10 (43).jpg,No Impairment,Mild Impairment,False
+10 (46).jpg,No Impairment,Very Mild Impairment,False
+10 (50).jpg,No Impairment,Mild Impairment,False
+10 (52).jpg,No Impairment,Mild Impairment,False
+10 (6).jpg,No Impairment,No Impairment,True
+10 (61).jpg,No Impairment,Very Mild Impairment,False
+10 (67).jpg,No Impairment,Moderate Impairment,False
+10 (73).jpg,No Impairment,Moderate Impairment,False
+10 (80).jpg,No Impairment,Mild Impairment,False
+10 (9).jpg,No Impairment,Mild Impairment,False
+10 (90).jpg,No Impairment,Mild Impairment,False
+11 (10).jpg,No Impairment,Mild Impairment,False
+11 (2).jpg,No Impairment,Moderate Impairment,False
+11 (20).jpg,No Impairment,Mild Impairment,False
+11 (27).jpg,No Impairment,No Impairment,True
+11 (30).jpg,No Impairment,Mild Impairment,False
+11 (31).jpg,No Impairment,Mild Impairment,False
+11 (33).jpg,No Impairment,No Impairment,True
+11 (41).jpg,No Impairment,No Impairment,True
+11 (44).jpg,No Impairment,No Impairment,True
+11 (51).jpg,No Impairment,No Impairment,True
+11 (52).jpg,No Impairment,Mild Impairment,False
+11 (54).jpg,No Impairment,Very Mild Impairment,False
+11 (55).jpg,No Impairment,Very Mild Impairment,False
+11 (60).jpg,No Impairment,Mild Impairment,False
+11 (63).jpg,No Impairment,Moderate Impairment,False
+11 (64).jpg,No Impairment,Mild Impairment,False
+11 (66).jpg,No Impairment,Mild Impairment,False
+11 (68).jpg,No Impairment,No Impairment,True
+11 (72).jpg,No Impairment,Mild Impairment,False
+11 (91).jpg,No Impairment,No Impairment,True
+11 (94).jpg,No Impairment,Mild Impairment,False
+11.jpg,No Impairment,No Impairment,True
+12 (16).jpg,No Impairment,Very Mild Impairment,False
+12 (2).jpg,No Impairment,Mild Impairment,False
+12 (24).jpg,No Impairment,Very Mild Impairment,False
+12 (3).jpg,No Impairment,No Impairment,True
+12 (31).jpg,No Impairment,Mild Impairment,False
+12 (4).jpg,No Impairment,No Impairment,True
+12 (59).jpg,No Impairment,No Impairment,True
+12 (64).jpg,No Impairment,Moderate Impairment,False
+12 (68).jpg,No Impairment,Mild Impairment,False
+12 (8).jpg,No Impairment,Mild Impairment,False
+12 (80).jpg,No Impairment,Mild Impairment,False
+12 (83).jpg,No Impairment,No Impairment,True
+12 (89).jpg,No Impairment,No Impairment,True
+12 (9).jpg,No Impairment,Moderate Impairment,False
+12 (91).jpg,No Impairment,No Impairment,True
+12 (95).jpg,No Impairment,Mild Impairment,False
+12 (99).jpg,No Impairment,No Impairment,True
+13 (100).jpg,No Impairment,Mild Impairment,False
+13 (14).jpg,No Impairment,Moderate Impairment,False
+13 (21).jpg,No Impairment,Mild Impairment,False
+13 (26).jpg,No Impairment,No Impairment,True
+13 (27).jpg,No Impairment,Very Mild Impairment,False
+13 (32).jpg,No Impairment,Mild Impairment,False
+13 (38).jpg,No Impairment,No Impairment,True
+13 (42).jpg,No Impairment,No Impairment,True
+13 (45).jpg,No Impairment,Mild Impairment,False
+13 (48).jpg,No Impairment,Mild Impairment,False
+13 (60).jpg,No Impairment,Mild Impairment,False
+13 (65).jpg,No Impairment,Mild Impairment,False
+13 (67).jpg,No Impairment,Very Mild Impairment,False
+13 (69).jpg,No Impairment,Mild Impairment,False
+13 (74).jpg,No Impairment,No Impairment,True
+13 (94).jpg,No Impairment,Mild Impairment,False
+13 (98).jpg,No Impairment,No Impairment,True
+14 (100).jpg,No Impairment,Very Mild Impairment,False
+14 (15).jpg,No Impairment,Mild Impairment,False
+14 (2).jpg,No Impairment,Very Mild Impairment,False
+14 (20).jpg,No Impairment,Mild Impairment,False
+14 (28).jpg,No Impairment,No Impairment,True
+14 (34).jpg,No Impairment,Mild Impairment,False
+14 (35).jpg,No Impairment,No Impairment,True
+14 (44).jpg,No Impairment,No Impairment,True
+14 (48).jpg,No Impairment,Very Mild Impairment,False
+14 (51).jpg,No Impairment,No Impairment,True
+14 (53).jpg,No Impairment,Very Mild Impairment,False
+14 (54).jpg,No Impairment,No Impairment,True
+14 (57).jpg,No Impairment,No Impairment,True
+14 (58).jpg,No Impairment,No Impairment,True
+14 (60).jpg,No Impairment,Mild Impairment,False
+14 (79).jpg,No Impairment,Very Mild Impairment,False
+14 (83).jpg,No Impairment,No Impairment,True
+14 (88).jpg,No Impairment,Moderate Impairment,False
+14 (91).jpg,No Impairment,No Impairment,True
+14 (97).jpg,No Impairment,Mild Impairment,False
+14 (99).jpg,No Impairment,No Impairment,True
+15 (18).jpg,No Impairment,Mild Impairment,False
+15 (2).jpg,No Impairment,Moderate Impairment,False
+15 (23).jpg,No Impairment,Moderate Impairment,False
+15 (27).jpg,No Impairment,Mild Impairment,False
+15 (3).jpg,No Impairment,Very Mild Impairment,False
+15 (33).jpg,No Impairment,No Impairment,True
+15 (40).jpg,No Impairment,No Impairment,True
+15 (5).jpg,No Impairment,No Impairment,True
+15 (55).jpg,No Impairment,Mild Impairment,False
+15 (56).jpg,No Impairment,No Impairment,True
+15 (66).jpg,No Impairment,Mild Impairment,False
+15 (70).jpg,No Impairment,Mild Impairment,False
+15 (76).jpg,No Impairment,No Impairment,True
+15 (79).jpg,No Impairment,Very Mild Impairment,False
+15 (8).jpg,No Impairment,Moderate Impairment,False
+15 (84).jpg,No Impairment,Mild Impairment,False
+15 (93).jpg,No Impairment,Very Mild Impairment,False
+16 (11).jpg,No Impairment,No Impairment,True
+16 (12).jpg,No Impairment,No Impairment,True
+16 (14).jpg,No Impairment,Very Mild Impairment,False
+16 (15).jpg,No Impairment,No Impairment,True
+16 (16).jpg,No Impairment,Very Mild Impairment,False
+16 (27).jpg,No Impairment,Very Mild Impairment,False
+16 (29).jpg,No Impairment,No Impairment,True
+16 (31).jpg,No Impairment,Mild Impairment,False
+16 (32).jpg,No Impairment,Mild Impairment,False
+16 (39).jpg,No Impairment,No Impairment,True
+16 (44).jpg,No Impairment,Very Mild Impairment,False
+16 (5).jpg,No Impairment,No Impairment,True
+16 (50).jpg,No Impairment,No Impairment,True
+16 (52).jpg,No Impairment,Mild Impairment,False
+16 (54).jpg,No Impairment,No Impairment,True
+16 (56).jpg,No Impairment,Very Mild Impairment,False
+16 (61).jpg,No Impairment,No Impairment,True
+16 (64).jpg,No Impairment,No Impairment,True
+16 (65).jpg,No Impairment,Very Mild Impairment,False
+16 (70).jpg,No Impairment,Mild Impairment,False
+16 (72).jpg,No Impairment,No Impairment,True
+16 (77).jpg,No Impairment,No Impairment,True
+16 (8).jpg,No Impairment,Mild Impairment,False
+16 (83).jpg,No Impairment,No Impairment,True
+16 (89).jpg,No Impairment,No Impairment,True
+16 (92).jpg,No Impairment,Mild Impairment,False
+16 (95).jpg,No Impairment,Mild Impairment,False
+16 (98).jpg,No Impairment,No Impairment,True
+17 (12).jpg,No Impairment,No Impairment,True
+17 (17).jpg,No Impairment,Mild Impairment,False
+17 (25).jpg,No Impairment,Mild Impairment,False
+17 (27).jpg,No Impairment,Mild Impairment,False
+17 (28).jpg,No Impairment,No Impairment,True
+17 (34).jpg,No Impairment,No Impairment,True
+17 (39).jpg,No Impairment,No Impairment,True
+17 (51).jpg,No Impairment,No Impairment,True
+17 (67).jpg,No Impairment,Mild Impairment,False
+17 (72).jpg,No Impairment,No Impairment,True
+17 (76).jpg,No Impairment,No Impairment,True
+17 (79).jpg,No Impairment,No Impairment,True
+17 (80).jpg,No Impairment,No Impairment,True
+17 (87).jpg,No Impairment,No Impairment,True
+17 (92).jpg,No Impairment,Moderate Impairment,False
+17 (93).jpg,No Impairment,Mild Impairment,False
+17 (97).jpg,No Impairment,Moderate Impairment,False
+17 (99).jpg,No Impairment,Mild Impairment,False
+17.jpg,No Impairment,Mild Impairment,False
+18 (12).jpg,No Impairment,No Impairment,True
+18 (17).jpg,No Impairment,Mild Impairment,False
+18 (18).jpg,No Impairment,No Impairment,True
+18 (2).jpg,No Impairment,No Impairment,True
+18 (27).jpg,No Impairment,No Impairment,True
+18 (3).jpg,No Impairment,Very Mild Impairment,False
+18 (31).jpg,No Impairment,Mild Impairment,False
+18 (32).jpg,No Impairment,Very Mild Impairment,False
+18 (34).jpg,No Impairment,No Impairment,True
+18 (35).jpg,No Impairment,No Impairment,True
+18 (36).jpg,No Impairment,Very Mild Impairment,False
+18 (38).jpg,No Impairment,No Impairment,True
+18 (39).jpg,No Impairment,No Impairment,True
+18 (4).jpg,No Impairment,No Impairment,True
+18 (43).jpg,No Impairment,No Impairment,True
+18 (44).jpg,No Impairment,No Impairment,True
+18 (46).jpg,No Impairment,Mild Impairment,False
+18 (50).jpg,No Impairment,Very Mild Impairment,False
+18 (72).jpg,No Impairment,No Impairment,True
+18 (73).jpg,No Impairment,Moderate Impairment,False
+18 (80).jpg,No Impairment,Very Mild Impairment,False
+18 (84).jpg,No Impairment,Mild Impairment,False
+18 (85).jpg,No Impairment,Very Mild Impairment,False
+18 (86).jpg,No Impairment,No Impairment,True
+18 (88).jpg,No Impairment,Mild Impairment,False
+18 (97).jpg,No Impairment,Mild Impairment,False
+19 (13).jpg,No Impairment,No Impairment,True
+19 (17).jpg,No Impairment,Mild Impairment,False
+19 (19).jpg,No Impairment,No Impairment,True
+19 (2).jpg,No Impairment,Very Mild Impairment,False
+19 (32).jpg,No Impairment,Mild Impairment,False
+19 (36).jpg,No Impairment,No Impairment,True
+19 (43).jpg,No Impairment,No Impairment,True
+19 (45).jpg,No Impairment,Mild Impairment,False
+19 (49).jpg,No Impairment,No Impairment,True
+19 (5).jpg,No Impairment,No Impairment,True
+19 (54).jpg,No Impairment,No Impairment,True
+19 (56).jpg,No Impairment,Very Mild Impairment,False
+19 (57).jpg,No Impairment,No Impairment,True
+19 (58).jpg,No Impairment,No Impairment,True
+19 (59).jpg,No Impairment,No Impairment,True
+19 (6).jpg,No Impairment,No Impairment,True
+19 (65).jpg,No Impairment,No Impairment,True
+19 (7).jpg,No Impairment,Moderate Impairment,False
+19 (77).jpg,No Impairment,No Impairment,True
+19 (8).jpg,No Impairment,Mild Impairment,False
+19 (81).jpg,No Impairment,No Impairment,True
+19 (82).jpg,No Impairment,No Impairment,True
+19 (84).jpg,No Impairment,Very Mild Impairment,False
+19 (88).jpg,No Impairment,Mild Impairment,False
+19 (9).jpg,No Impairment,No Impairment,True
+2 (100).jpg,No Impairment,Mild Impairment,False
+2 (11).jpg,No Impairment,Moderate Impairment,False
+2 (15).jpg,No Impairment,Mild Impairment,False
+2 (18).jpg,No Impairment,No Impairment,True
+2 (19).jpg,No Impairment,Mild Impairment,False
+2 (22).jpg,No Impairment,Mild Impairment,False
+2 (30).jpg,No Impairment,Very Mild Impairment,False
+2 (42).jpg,No Impairment,Very Mild Impairment,False
+2 (48).jpg,No Impairment,Mild Impairment,False
+2 (53).jpg,No Impairment,No Impairment,True
+2 (54).jpg,No Impairment,Very Mild Impairment,False
+2 (61).jpg,No Impairment,Very Mild Impairment,False
+2 (64).jpg,No Impairment,Mild Impairment,False
+2 (69).jpg,No Impairment,No Impairment,True
+2 (79).jpg,No Impairment,Mild Impairment,False
+2 (80).jpg,No Impairment,No Impairment,True
+2 (85).jpg,No Impairment,Very Mild Impairment,False
+2 (90).jpg,No Impairment,No Impairment,True
+2 (95).jpg,No Impairment,Mild Impairment,False
+2 (96).jpg,No Impairment,Moderate Impairment,False
+2.jpg,No Impairment,No Impairment,True
+20 (13).jpg,No Impairment,No Impairment,True
+20 (20).jpg,No Impairment,Mild Impairment,False
+20 (29).jpg,No Impairment,Mild Impairment,False
+20 (3).jpg,No Impairment,Very Mild Impairment,False
+20 (39).jpg,No Impairment,No Impairment,True
+20 (4).jpg,No Impairment,No Impairment,True
+20 (41).jpg,No Impairment,No Impairment,True
+20 (42).jpg,No Impairment,Very Mild Impairment,False
+20 (45).jpg,No Impairment,Very Mild Impairment,False
+20 (46).jpg,No Impairment,Mild Impairment,False
+20 (54).jpg,No Impairment,No Impairment,True
+20 (55).jpg,No Impairment,Very Mild Impairment,False
+20 (58).jpg,No Impairment,No Impairment,True
+20 (66).jpg,No Impairment,No Impairment,True
+20 (72).jpg,No Impairment,Mild Impairment,False
+20 (77).jpg,No Impairment,No Impairment,True
+20 (84).jpg,No Impairment,Mild Impairment,False
+21 (25).jpg,No Impairment,Mild Impairment,False
+21 (27).jpg,No Impairment,Mild Impairment,False
+21 (28).jpg,No Impairment,No Impairment,True
+21 (36).jpg,No Impairment,Mild Impairment,False
+21 (41).jpg,No Impairment,No Impairment,True
+21 (43).jpg,No Impairment,No Impairment,True
+21 (45).jpg,No Impairment,No Impairment,True
+21 (47).jpg,No Impairment,No Impairment,True
+21 (5).jpg,No Impairment,No Impairment,True
+21 (52).jpg,No Impairment,Mild Impairment,False
+21 (56).jpg,No Impairment,Mild Impairment,False
+21 (64).jpg,No Impairment,No Impairment,True
+21 (73).jpg,No Impairment,Mild Impairment,False
+21 (82).jpg,No Impairment,No Impairment,True
+21 (93).jpg,No Impairment,No Impairment,True
+21 (94).jpg,No Impairment,Mild Impairment,False
+21 (97).jpg,No Impairment,No Impairment,True
+22 (100).jpg,No Impairment,No Impairment,True
+22 (15).jpg,No Impairment,No Impairment,True
+22 (19).jpg,No Impairment,No Impairment,True
+22 (2).jpg,No Impairment,No Impairment,True
+22 (22).jpg,No Impairment,Very Mild Impairment,False
+22 (29).jpg,No Impairment,Mild Impairment,False
+22 (30).jpg,No Impairment,No Impairment,True
+22 (34).jpg,No Impairment,No Impairment,True
+22 (35).jpg,No Impairment,Moderate Impairment,False
+22 (41).jpg,No Impairment,No Impairment,True
+22 (47).jpg,No Impairment,No Impairment,True
+22 (5).jpg,No Impairment,No Impairment,True
+22 (55).jpg,No Impairment,No Impairment,True
+22 (61).jpg,No Impairment,Very Mild Impairment,False
+22 (65).jpg,No Impairment,No Impairment,True
+22 (78).jpg,No Impairment,No Impairment,True
+22 (8).jpg,No Impairment,No Impairment,True
+22 (85).jpg,No Impairment,No Impairment,True
+22 (86).jpg,No Impairment,No Impairment,True
+22 (90).jpg,No Impairment,No Impairment,True
+22 (96).jpg,No Impairment,No Impairment,True
+22 (99).jpg,No Impairment,No Impairment,True
+23 (19).jpg,No Impairment,No Impairment,True
+23 (20).jpg,No Impairment,Mild Impairment,False
+23 (32).jpg,No Impairment,Very Mild Impairment,False
+23 (4).jpg,No Impairment,No Impairment,True
+23 (40).jpg,No Impairment,No Impairment,True
+23 (51).jpg,No Impairment,No Impairment,True
+23 (65).jpg,No Impairment,No Impairment,True
+23 (73).jpg,No Impairment,Mild Impairment,False
+23 (74).jpg,No Impairment,Very Mild Impairment,False
+23 (76).jpg,No Impairment,No Impairment,True
+23 (81).jpg,No Impairment,No Impairment,True
+23 (85).jpg,No Impairment,No Impairment,True
+23 (86).jpg,No Impairment,No Impairment,True
+23 (87).jpg,No Impairment,No Impairment,True
+23 (9).jpg,No Impairment,Mild Impairment,False
+23 (91).jpg,No Impairment,No Impairment,True
+23 (92).jpg,No Impairment,No Impairment,True
+24 (12).jpg,No Impairment,No Impairment,True
+24 (13).jpg,No Impairment,No Impairment,True
+24 (14).jpg,No Impairment,No Impairment,True
+24 (17).jpg,No Impairment,Mild Impairment,False
+24 (18).jpg,No Impairment,No Impairment,True
+24 (25).jpg,No Impairment,Mild Impairment,False
+24 (31).jpg,No Impairment,Mild Impairment,False
+24 (32).jpg,No Impairment,No Impairment,True
+24 (36).jpg,No Impairment,Mild Impairment,False
+24 (38).jpg,No Impairment,No Impairment,True
+24 (4).jpg,No Impairment,No Impairment,True
+24 (41).jpg,No Impairment,Mild Impairment,False
+24 (43).jpg,No Impairment,Mild Impairment,False
+24 (69).jpg,No Impairment,No Impairment,True
+24 (7).jpg,No Impairment,No Impairment,True
+24 (72).jpg,No Impairment,No Impairment,True
+24 (82).jpg,No Impairment,No Impairment,True
+25 (100).jpg,No Impairment,No Impairment,True
+25 (11).jpg,No Impairment,No Impairment,True
+25 (13).jpg,No Impairment,No Impairment,True
+25 (16).jpg,No Impairment,No Impairment,True
+25 (29).jpg,No Impairment,Mild Impairment,False
+25 (30).jpg,No Impairment,Very Mild Impairment,False
+25 (31).jpg,No Impairment,Very Mild Impairment,False
+25 (36).jpg,No Impairment,Mild Impairment,False
+25 (38).jpg,No Impairment,Very Mild Impairment,False
+25 (49).jpg,No Impairment,No Impairment,True
+25 (5).jpg,No Impairment,No Impairment,True
+25 (53).jpg,No Impairment,No Impairment,True
+25 (56).jpg,No Impairment,Mild Impairment,False
+25 (57).jpg,No Impairment,Very Mild Impairment,False
+25 (59).jpg,No Impairment,No Impairment,True
+25 (63).jpg,No Impairment,No Impairment,True
+25 (70).jpg,No Impairment,No Impairment,True
+25 (74).jpg,No Impairment,No Impairment,True
+25 (76).jpg,No Impairment,No Impairment,True
+25 (78).jpg,No Impairment,No Impairment,True
+25 (84).jpg,No Impairment,Mild Impairment,False
+25 (85).jpg,No Impairment,No Impairment,True
+25 (86).jpg,No Impairment,No Impairment,True
+25 (87).jpg,No Impairment,No Impairment,True
+25 (9).jpg,No Impairment,No Impairment,True
+26 (100).jpg,No Impairment,Very Mild Impairment,False
+26 (13).jpg,No Impairment,No Impairment,True
+26 (14).jpg,No Impairment,Mild Impairment,False
+26 (27).jpg,No Impairment,Mild Impairment,False
+26 (29).jpg,No Impairment,Very Mild Impairment,False
+26 (37).jpg,No Impairment,No Impairment,True
+26 (40).jpg,No Impairment,No Impairment,True
+26 (51).jpg,No Impairment,No Impairment,True
+26 (55).jpg,No Impairment,No Impairment,True
+26 (61).jpg,No Impairment,No Impairment,True
+26 (68).jpg,No Impairment,Very Mild Impairment,False
+26 (80).jpg,No Impairment,No Impairment,True
+26 (81).jpg,No Impairment,No Impairment,True
+26 (83).jpg,No Impairment,No Impairment,True
+26 (9).jpg,No Impairment,No Impairment,True
+26 (93).jpg,No Impairment,No Impairment,True
+26 (99).jpg,No Impairment,No Impairment,True
+27 (16).jpg,No Impairment,Mild Impairment,False
+27 (20).jpg,No Impairment,No Impairment,True
+27 (24).jpg,No Impairment,Mild Impairment,False
+27 (29).jpg,No Impairment,Mild Impairment,False
+27 (32).jpg,No Impairment,No Impairment,True
+27 (34).jpg,No Impairment,No Impairment,True
+27 (38).jpg,No Impairment,No Impairment,True
+27 (48).jpg,No Impairment,No Impairment,True
+27 (5).jpg,No Impairment,No Impairment,True
+27 (66).jpg,No Impairment,No Impairment,True
+27 (67).jpg,No Impairment,No Impairment,True
+27 (7).jpg,No Impairment,No Impairment,True
+27 (70).jpg,No Impairment,No Impairment,True
+27 (72).jpg,No Impairment,Mild Impairment,False
+27 (74).jpg,No Impairment,No Impairment,True
+27 (82).jpg,No Impairment,Very Mild Impairment,False
+27 (83).jpg,No Impairment,No Impairment,True
+27 (89).jpg,No Impairment,Mild Impairment,False
+27 (92).jpg,No Impairment,No Impairment,True
+27 (97).jpg,No Impairment,Very Mild Impairment,False
+28 (12).jpg,No Impairment,No Impairment,True
+28 (14).jpg,No Impairment,No Impairment,True
+28 (16).jpg,No Impairment,Mild Impairment,False
+28 (21).jpg,No Impairment,No Impairment,True
+28 (25).jpg,No Impairment,Mild Impairment,False
+28 (27).jpg,No Impairment,No Impairment,True
+28 (31).jpg,No Impairment,Mild Impairment,False
+28 (32).jpg,No Impairment,No Impairment,True
+28 (33).jpg,No Impairment,Mild Impairment,False
+28 (38).jpg,No Impairment,No Impairment,True
+28 (39).jpg,No Impairment,No Impairment,True
+28 (42).jpg,No Impairment,No Impairment,True
+28 (53).jpg,No Impairment,No Impairment,True
+28 (59).jpg,No Impairment,No Impairment,True
+28 (60).jpg,No Impairment,No Impairment,True
+28 (64).jpg,No Impairment,No Impairment,True
+28 (72).jpg,No Impairment,Mild Impairment,False
+28 (73).jpg,No Impairment,Mild Impairment,False
+28 (80).jpg,No Impairment,No Impairment,True
+29 (100).jpg,No Impairment,Very Mild Impairment,False
+29 (14).jpg,No Impairment,No Impairment,True
+29 (15).jpg,No Impairment,No Impairment,True
+29 (16).jpg,No Impairment,No Impairment,True
+29 (19).jpg,No Impairment,No Impairment,True
+29 (20).jpg,No Impairment,No Impairment,True
+29 (29).jpg,No Impairment,Moderate Impairment,False
+29 (41).jpg,No Impairment,Mild Impairment,False
+29 (42).jpg,No Impairment,No Impairment,True
+29 (63).jpg,No Impairment,Mild Impairment,False
+29 (64).jpg,No Impairment,Very Mild Impairment,False
+29 (67).jpg,No Impairment,No Impairment,True
+29 (72).jpg,No Impairment,No Impairment,True
+29 (76).jpg,No Impairment,No Impairment,True
+29 (78).jpg,No Impairment,Mild Impairment,False
+29 (79).jpg,No Impairment,No Impairment,True
+29 (83).jpg,No Impairment,No Impairment,True
+29 (88).jpg,No Impairment,No Impairment,True
+29 (99).jpg,No Impairment,No Impairment,True
+3 (12).jpg,No Impairment,No Impairment,True
+3 (13).jpg,No Impairment,Moderate Impairment,False
+3 (2).jpg,No Impairment,No Impairment,True
+3 (20).jpg,No Impairment,Very Mild Impairment,False
+3 (32).jpg,No Impairment,No Impairment,True
+3 (35).jpg,No Impairment,Moderate Impairment,False
+3 (4).jpg,No Impairment,Mild Impairment,False
+3 (40).jpg,No Impairment,Very Mild Impairment,False
+3 (42).jpg,No Impairment,Very Mild Impairment,False
+3 (43).jpg,No Impairment,No Impairment,True
+3 (53).jpg,No Impairment,No Impairment,True
+3 (58).jpg,No Impairment,Very Mild Impairment,False
+3 (59).jpg,No Impairment,Mild Impairment,False
+3 (60).jpg,No Impairment,Mild Impairment,False
+3 (71).jpg,No Impairment,Moderate Impairment,False
+3 (78).jpg,No Impairment,Mild Impairment,False
+3 (8).jpg,No Impairment,No Impairment,True
+3 (81).jpg,No Impairment,Mild Impairment,False
+30 (100).jpg,No Impairment,No Impairment,True
+30 (11).jpg,No Impairment,Very Mild Impairment,False
+30 (18).jpg,No Impairment,No Impairment,True
+30 (28).jpg,No Impairment,No Impairment,True
+30 (29).jpg,No Impairment,Moderate Impairment,False
+30 (44).jpg,No Impairment,No Impairment,True
+30 (46).jpg,No Impairment,Mild Impairment,False
+30 (50).jpg,No Impairment,No Impairment,True
+30 (51).jpg,No Impairment,No Impairment,True
+30 (58).jpg,No Impairment,No Impairment,True
+30 (6).jpg,No Impairment,Very Mild Impairment,False
+30 (61).jpg,No Impairment,No Impairment,True
+30 (64).jpg,No Impairment,Very Mild Impairment,False
+30 (70).jpg,No Impairment,No Impairment,True
+30 (75).jpg,No Impairment,Mild Impairment,False
+30 (82).jpg,No Impairment,No Impairment,True
+30 (90).jpg,No Impairment,Mild Impairment,False
+31 (12).jpg,No Impairment,No Impairment,True
+31 (15).jpg,No Impairment,No Impairment,True
+31 (16).jpg,No Impairment,No Impairment,True
+31 (18).jpg,No Impairment,No Impairment,True
+31 (20).jpg,No Impairment,No Impairment,True
+31 (21).jpg,No Impairment,No Impairment,True
+31 (25).jpg,No Impairment,Mild Impairment,False
+31 (32).jpg,No Impairment,Very Mild Impairment,False
+31 (4).jpg,No Impairment,No Impairment,True
+31 (40).jpg,No Impairment,Mild Impairment,False
+31 (42).jpg,No Impairment,Mild Impairment,False
+31 (46).jpg,No Impairment,Mild Impairment,False
+31 (49).jpg,No Impairment,Very Mild Impairment,False
+31 (6).jpg,No Impairment,No Impairment,True
+31 (61).jpg,No Impairment,No Impairment,True
+31 (67).jpg,No Impairment,No Impairment,True
+31 (68).jpg,No Impairment,Mild Impairment,False
+31 (71).jpg,No Impairment,No Impairment,True
+31 (72).jpg,No Impairment,Mild Impairment,False
+31 (73).jpg,No Impairment,Very Mild Impairment,False
+31 (74).jpg,No Impairment,No Impairment,True
+31 (80).jpg,No Impairment,Very Mild Impairment,False
+31 (82).jpg,No Impairment,No Impairment,True
+31 (83).jpg,No Impairment,No Impairment,True
+31 (88).jpg,No Impairment,No Impairment,True
+31 (92).jpg,No Impairment,No Impairment,True
+31 (96).jpg,No Impairment,No Impairment,True
+31 (97).jpg,No Impairment,Mild Impairment,False
+31 (99).jpg,No Impairment,No Impairment,True
+32 (12).jpg,No Impairment,No Impairment,True
+32 (2).jpg,No Impairment,No Impairment,True
+32 (20).jpg,No Impairment,No Impairment,True
+32 (22).jpg,No Impairment,No Impairment,True
+32 (23).jpg,No Impairment,Very Mild Impairment,False
+32 (32).jpg,No Impairment,No Impairment,True
+32 (36).jpg,No Impairment,No Impairment,True
+32 (39).jpg,No Impairment,Very Mild Impairment,False
+32 (41).jpg,No Impairment,Mild Impairment,False
+32 (45).jpg,No Impairment,No Impairment,True
+32 (5).jpg,No Impairment,Very Mild Impairment,False
+32 (50).jpg,No Impairment,No Impairment,True
+32 (52).jpg,No Impairment,Very Mild Impairment,False
+32 (59).jpg,No Impairment,Very Mild Impairment,False
+32 (62).jpg,No Impairment,No Impairment,True
+32 (63).jpg,No Impairment,Mild Impairment,False
+32 (65).jpg,No Impairment,Mild Impairment,False
+32 (66).jpg,No Impairment,No Impairment,True
+32 (8).jpg,No Impairment,No Impairment,True
+32 (83).jpg,No Impairment,No Impairment,True
+32 (90).jpg,No Impairment,Mild Impairment,False
+32 (91).jpg,No Impairment,No Impairment,True
+32 (92).jpg,No Impairment,No Impairment,True
+32 (94).jpg,No Impairment,Mild Impairment,False
+4 (20).jpg,No Impairment,Very Mild Impairment,False
+4 (30).jpg,No Impairment,Moderate Impairment,False
+4 (32).jpg,No Impairment,Mild Impairment,False
+4 (33).jpg,No Impairment,No Impairment,True
+4 (35).jpg,No Impairment,No Impairment,True
+4 (37).jpg,No Impairment,Mild Impairment,False
+4 (44).jpg,No Impairment,Mild Impairment,False
+4 (51).jpg,No Impairment,Mild Impairment,False
+4 (52).jpg,No Impairment,Moderate Impairment,False
+4 (53).jpg,No Impairment,No Impairment,True
+4 (55).jpg,No Impairment,Very Mild Impairment,False
+4 (57).jpg,No Impairment,Mild Impairment,False
+4 (67).jpg,No Impairment,Very Mild Impairment,False
+4 (69).jpg,No Impairment,Mild Impairment,False
+4 (73).jpg,No Impairment,Mild Impairment,False
+4 (76).jpg,No Impairment,Very Mild Impairment,False
+4 (77).jpg,No Impairment,Mild Impairment,False
+4 (8).jpg,No Impairment,No Impairment,True
+4 (80).jpg,No Impairment,No Impairment,True
+4 (87).jpg,No Impairment,Mild Impairment,False
+4 (90).jpg,No Impairment,No Impairment,True
+4 (93).jpg,No Impairment,Very Mild Impairment,False
+4 (97).jpg,No Impairment,Moderate Impairment,False
+4.jpg,No Impairment,Mild Impairment,False
+5 (23).jpg,No Impairment,Moderate Impairment,False
+5 (24).jpg,No Impairment,Moderate Impairment,False
+5 (25).jpg,No Impairment,Mild Impairment,False
+5 (30).jpg,No Impairment,Moderate Impairment,False
+5 (31).jpg,No Impairment,Mild Impairment,False
+5 (38).jpg,No Impairment,Mild Impairment,False
+5 (39).jpg,No Impairment,Very Mild Impairment,False
+5 (41).jpg,No Impairment,Moderate Impairment,False
+5 (45).jpg,No Impairment,Moderate Impairment,False
+5 (48).jpg,No Impairment,Moderate Impairment,False
+5 (5).jpg,No Impairment,Very Mild Impairment,False
+5 (52).jpg,No Impairment,Mild Impairment,False
+5 (54).jpg,No Impairment,No Impairment,True
+5 (55).jpg,No Impairment,Very Mild Impairment,False
+5 (56).jpg,No Impairment,Mild Impairment,False
+5 (60).jpg,No Impairment,Moderate Impairment,False
+5 (63).jpg,No Impairment,No Impairment,True
+5 (68).jpg,No Impairment,No Impairment,True
+5 (74).jpg,No Impairment,No Impairment,True
+5 (80).jpg,No Impairment,Moderate Impairment,False
+5 (85).jpg,No Impairment,Moderate Impairment,False
+5 (86).jpg,No Impairment,Mild Impairment,False
+6 (13).jpg,No Impairment,Moderate Impairment,False
+6 (16).jpg,No Impairment,No Impairment,True
+6 (17).jpg,No Impairment,Moderate Impairment,False
+6 (25).jpg,No Impairment,Mild Impairment,False
+6 (40).jpg,No Impairment,Very Mild Impairment,False
+6 (43).jpg,No Impairment,Moderate Impairment,False
+6 (45).jpg,No Impairment,Moderate Impairment,False
+6 (61).jpg,No Impairment,Very Mild Impairment,False
+6 (66).jpg,No Impairment,Mild Impairment,False
+6 (7).jpg,No Impairment,Mild Impairment,False
+6 (78).jpg,No Impairment,No Impairment,True
+6 (80).jpg,No Impairment,No Impairment,True
+6 (81).jpg,No Impairment,Very Mild Impairment,False
+6 (82).jpg,No Impairment,Mild Impairment,False
+6 (92).jpg,No Impairment,No Impairment,True
+7 (17).jpg,No Impairment,Moderate Impairment,False
+7 (30).jpg,No Impairment,Moderate Impairment,False
+7 (34).jpg,No Impairment,Moderate Impairment,False
+7 (40).jpg,No Impairment,No Impairment,True
+7 (46).jpg,No Impairment,Moderate Impairment,False
+7 (54).jpg,No Impairment,Very Mild Impairment,False
+7 (64).jpg,No Impairment,Mild Impairment,False
+7 (72).jpg,No Impairment,Very Mild Impairment,False
+7 (74).jpg,No Impairment,No Impairment,True
+7 (77).jpg,No Impairment,No Impairment,True
+7 (89).jpg,No Impairment,Moderate Impairment,False
+7 (95).jpg,No Impairment,Mild Impairment,False
+8 (12).jpg,No Impairment,No Impairment,True
+8 (18).jpg,No Impairment,Mild Impairment,False
+8 (23).jpg,No Impairment,Very Mild Impairment,False
+8 (26).jpg,No Impairment,Mild Impairment,False
+8 (30).jpg,No Impairment,Very Mild Impairment,False
+8 (41).jpg,No Impairment,No Impairment,True
+8 (45).jpg,No Impairment,Moderate Impairment,False
+8 (47).jpg,No Impairment,Very Mild Impairment,False
+8 (59).jpg,No Impairment,No Impairment,True
+8 (78).jpg,No Impairment,No Impairment,True
+8 (80).jpg,No Impairment,No Impairment,True
+8 (84).jpg,No Impairment,Moderate Impairment,False
+8 (88).jpg,No Impairment,Moderate Impairment,False
+8 (9).jpg,No Impairment,Mild Impairment,False
+9 (11).jpg,No Impairment,No Impairment,True
+9 (16).jpg,No Impairment,Mild Impairment,False
+9 (17).jpg,No Impairment,Moderate Impairment,False
+9 (19).jpg,No Impairment,No Impairment,True
+9 (20).jpg,No Impairment,Mild Impairment,False
+9 (28).jpg,No Impairment,Moderate Impairment,False
+9 (39).jpg,No Impairment,Mild Impairment,False
+9 (5).jpg,No Impairment,Moderate Impairment,False
+9 (50).jpg,No Impairment,No Impairment,True
+9 (57).jpg,No Impairment,No Impairment,True
+9 (60).jpg,No Impairment,Mild Impairment,False
+9 (62).jpg,No Impairment,No Impairment,True
+9 (66).jpg,No Impairment,Mild Impairment,False
+9 (69).jpg,No Impairment,Mild Impairment,False
+9 (7).jpg,No Impairment,No Impairment,True
+9 (70).jpg,No Impairment,Mild Impairment,False
+9 (71).jpg,No Impairment,Mild Impairment,False
+9 (75).jpg,No Impairment,Mild Impairment,False
+9 (76).jpg,No Impairment,Mild Impairment,False
+9 (77).jpg,No Impairment,No Impairment,True
+9 (8).jpg,No Impairment,Moderate Impairment,False
+9 (87).jpg,No Impairment,No Impairment,True
+9 (9).jpg,No Impairment,Mild Impairment,False
+9 (93).jpg,No Impairment,Moderate Impairment,False
+9 (95).jpg,No Impairment,Mild Impairment,False
+1 (10).jpg,Very Mild Impairment,Mild Impairment,False
+1 (13).jpg,Very Mild Impairment,Very Mild Impairment,True
+1 (17).jpg,Very Mild Impairment,Moderate Impairment,False
+1 (2).jpg,Very Mild Impairment,Mild Impairment,False
+1 (21).jpg,Very Mild Impairment,Mild Impairment,False
+1 (22).jpg,Very Mild Impairment,Mild Impairment,False
+1 (24).jpg,Very Mild Impairment,Very Mild Impairment,True
+1 (35).jpg,Very Mild Impairment,Mild Impairment,False
+1 (37).jpg,Very Mild Impairment,Mild Impairment,False
+1 (4).jpg,Very Mild Impairment,Mild Impairment,False
+1 (41).jpg,Very Mild Impairment,Mild Impairment,False
+1 (45).jpg,Very Mild Impairment,Mild Impairment,False
+1 (51).jpg,Very Mild Impairment,Mild Impairment,False
+1 (52).jpg,Very Mild Impairment,Mild Impairment,False
+1 (59).jpg,Very Mild Impairment,Very Mild Impairment,True
+1 (8).jpg,Very Mild Impairment,Very Mild Impairment,True
+1 (9).jpg,Very Mild Impairment,Mild Impairment,False
+10 (16).jpg,Very Mild Impairment,Mild Impairment,False
+10 (20).jpg,Very Mild Impairment,No Impairment,False
+10 (21).jpg,Very Mild Impairment,Moderate Impairment,False
+10 (24).jpg,Very Mild Impairment,Mild Impairment,False
+10 (27).jpg,Very Mild Impairment,Mild Impairment,False
+10 (44).jpg,Very Mild Impairment,No Impairment,False
+10 (48).jpg,Very Mild Impairment,Mild Impairment,False
+10 (49).jpg,Very Mild Impairment,Moderate Impairment,False
+10 (51).jpg,Very Mild Impairment,Mild Impairment,False
+10 (52).jpg,Very Mild Impairment,Very Mild Impairment,True
+10 (54).jpg,Very Mild Impairment,No Impairment,False
+11 (17).jpg,Very Mild Impairment,Very Mild Impairment,True
+11 (2).jpg,Very Mild Impairment,Mild Impairment,False
+11 (27).jpg,Very Mild Impairment,Mild Impairment,False
+11 (3).jpg,Very Mild Impairment,No Impairment,False
+11 (33).jpg,Very Mild Impairment,Mild Impairment,False
+11 (38).jpg,Very Mild Impairment,Mild Impairment,False
+11 (4).jpg,Very Mild Impairment,Mild Impairment,False
+11 (44).jpg,Very Mild Impairment,Very Mild Impairment,True
+11 (46).jpg,Very Mild Impairment,Moderate Impairment,False
+11 (51).jpg,Very Mild Impairment,Mild Impairment,False
+11 (52).jpg,Very Mild Impairment,Mild Impairment,False
+11 (59).jpg,Very Mild Impairment,Mild Impairment,False
+11 (65).jpg,Very Mild Impairment,Mild Impairment,False
+11 (69).jpg,Very Mild Impairment,No Impairment,False
+12 (13).jpg,Very Mild Impairment,Very Mild Impairment,True
+12 (15).jpg,Very Mild Impairment,No Impairment,False
+12 (22).jpg,Very Mild Impairment,Mild Impairment,False
+12 (23).jpg,Very Mild Impairment,Very Mild Impairment,True
+12 (27).jpg,Very Mild Impairment,Mild Impairment,False
+12 (31).jpg,Very Mild Impairment,No Impairment,False
+12 (36).jpg,Very Mild Impairment,No Impairment,False
+12 (47).jpg,Very Mild Impairment,No Impairment,False
+12 (54).jpg,Very Mild Impairment,No Impairment,False
+12 (60).jpg,Very Mild Impairment,Very Mild Impairment,True
+13 (10).jpg,Very Mild Impairment,No Impairment,False
+13 (12).jpg,Very Mild Impairment,No Impairment,False
+13 (14).jpg,Very Mild Impairment,Mild Impairment,False
+13 (27).jpg,Very Mild Impairment,Very Mild Impairment,True
+13 (39).jpg,Very Mild Impairment,Mild Impairment,False
+13 (45).jpg,Very Mild Impairment,Mild Impairment,False
+13 (5).jpg,Very Mild Impairment,Mild Impairment,False
+13 (56).jpg,Very Mild Impairment,Moderate Impairment,False
+13 (58).jpg,Very Mild Impairment,Very Mild Impairment,True
+13 (59).jpg,Very Mild Impairment,Moderate Impairment,False
+13 (6).jpg,Very Mild Impairment,No Impairment,False
+13 (63).jpg,Very Mild Impairment,Mild Impairment,False
+13 (70).jpg,Very Mild Impairment,Very Mild Impairment,True
+13 (8).jpg,Very Mild Impairment,No Impairment,False
+14 (10).jpg,Very Mild Impairment,No Impairment,False
+14 (14).jpg,Very Mild Impairment,Mild Impairment,False
+14 (22).jpg,Very Mild Impairment,Mild Impairment,False
+14 (3).jpg,Very Mild Impairment,No Impairment,False
+14 (38).jpg,Very Mild Impairment,Mild Impairment,False
+14 (40).jpg,Very Mild Impairment,Moderate Impairment,False
+14 (41).jpg,Very Mild Impairment,Very Mild Impairment,True
+14 (53).jpg,Very Mild Impairment,Very Mild Impairment,True
+14 (59).jpg,Very Mild Impairment,Moderate Impairment,False
+14 (60).jpg,Very Mild Impairment,No Impairment,False
+14 (62).jpg,Very Mild Impairment,Mild Impairment,False
+14 (69).jpg,Very Mild Impairment,Mild Impairment,False
+14 (70).jpg,Very Mild Impairment,Very Mild Impairment,True
+14 (9).jpg,Very Mild Impairment,Mild Impairment,False
+15 (10).jpg,Very Mild Impairment,No Impairment,False
+15 (17).jpg,Very Mild Impairment,No Impairment,False
+15 (18).jpg,Very Mild Impairment,Moderate Impairment,False
+15 (20).jpg,Very Mild Impairment,Very Mild Impairment,True
+15 (31).jpg,Very Mild Impairment,No Impairment,False
+15 (35).jpg,Very Mild Impairment,No Impairment,False
+15 (51).jpg,Very Mild Impairment,Mild Impairment,False
+15 (52).jpg,Very Mild Impairment,Very Mild Impairment,True
+15 (53).jpg,Very Mild Impairment,Very Mild Impairment,True
+15 (56).jpg,Very Mild Impairment,No Impairment,False
+15 (70).jpg,Very Mild Impairment,No Impairment,False
+16 (15).jpg,Very Mild Impairment,No Impairment,False
+16 (24).jpg,Very Mild Impairment,Very Mild Impairment,True
+16 (28).jpg,Very Mild Impairment,Mild Impairment,False
+16 (29).jpg,Very Mild Impairment,Mild Impairment,False
+16 (3).jpg,Very Mild Impairment,No Impairment,False
+16 (4).jpg,Very Mild Impairment,Mild Impairment,False
+16 (50).jpg,Very Mild Impairment,Mild Impairment,False
+16 (59).jpg,Very Mild Impairment,No Impairment,False
+16 (61).jpg,Very Mild Impairment,No Impairment,False
+16 (62).jpg,Very Mild Impairment,Mild Impairment,False
+16 (63).jpg,Very Mild Impairment,Mild Impairment,False
+16 (65).jpg,Very Mild Impairment,Moderate Impairment,False
+16 (70).jpg,Very Mild Impairment,Mild Impairment,False
+17 (16).jpg,Very Mild Impairment,No Impairment,False
+17 (18).jpg,Very Mild Impairment,Moderate Impairment,False
+17 (22).jpg,Very Mild Impairment,Mild Impairment,False
+17 (3).jpg,Very Mild Impairment,No Impairment,False
+17 (45).jpg,Very Mild Impairment,Very Mild Impairment,True
+17 (47).jpg,Very Mild Impairment,Mild Impairment,False
+17 (49).jpg,Very Mild Impairment,Very Mild Impairment,True
+17 (65).jpg,Very Mild Impairment,Very Mild Impairment,True
+17 (66).jpg,Very Mild Impairment,Very Mild Impairment,True
+17 (68).jpg,Very Mild Impairment,Moderate Impairment,False
+17 (69).jpg,Very Mild Impairment,Very Mild Impairment,True
+17 (7).jpg,Very Mild Impairment,No Impairment,False
+18 (14).jpg,Very Mild Impairment,Mild Impairment,False
+18 (16).jpg,Very Mild Impairment,Very Mild Impairment,True
+18 (20).jpg,Very Mild Impairment,Mild Impairment,False
+18 (25).jpg,Very Mild Impairment,Mild Impairment,False
+18 (28).jpg,Very Mild Impairment,Very Mild Impairment,True
+18 (30).jpg,Very Mild Impairment,No Impairment,False
+18 (36).jpg,Very Mild Impairment,Very Mild Impairment,True
+18 (4).jpg,Very Mild Impairment,Mild Impairment,False
+18 (41).jpg,Very Mild Impairment,Very Mild Impairment,True
+18 (43).jpg,Very Mild Impairment,Mild Impairment,False
+18 (44).jpg,Very Mild Impairment,No Impairment,False
+18 (45).jpg,Very Mild Impairment,Very Mild Impairment,True
+18 (55).jpg,Very Mild Impairment,No Impairment,False
+18 (61).jpg,Very Mild Impairment,No Impairment,False
+18 (63).jpg,Very Mild Impairment,Mild Impairment,False
+18 (66).jpg,Very Mild Impairment,Mild Impairment,False
+18 (7).jpg,Very Mild Impairment,No Impairment,False
+18 (70).jpg,Very Mild Impairment,No Impairment,False
+19 (13).jpg,Very Mild Impairment,Very Mild Impairment,True
+19 (17).jpg,Very Mild Impairment,No Impairment,False
+19 (21).jpg,Very Mild Impairment,Very Mild Impairment,True
+19 (24).jpg,Very Mild Impairment,Mild Impairment,False
+19 (28).jpg,Very Mild Impairment,Very Mild Impairment,True
+19 (32).jpg,Very Mild Impairment,No Impairment,False
+19 (40).jpg,Very Mild Impairment,Mild Impairment,False
+19 (41).jpg,Very Mild Impairment,Very Mild Impairment,True
+19 (52).jpg,Very Mild Impairment,Very Mild Impairment,True
+19 (6).jpg,Very Mild Impairment,No Impairment,False
+19 (61).jpg,Very Mild Impairment,No Impairment,False
+19 (7).jpg,Very Mild Impairment,No Impairment,False
+2 (15).jpg,Very Mild Impairment,Mild Impairment,False
+2 (16).jpg,Very Mild Impairment,Mild Impairment,False
+2 (17).jpg,Very Mild Impairment,Moderate Impairment,False
+2 (19).jpg,Very Mild Impairment,Mild Impairment,False
+2 (23).jpg,Very Mild Impairment,Mild Impairment,False
+2 (24).jpg,Very Mild Impairment,Moderate Impairment,False
+2 (3).jpg,Very Mild Impairment,No Impairment,False
+2 (31).jpg,Very Mild Impairment,Very Mild Impairment,True
+2 (34).jpg,Very Mild Impairment,Mild Impairment,False
+2 (36).jpg,Very Mild Impairment,Moderate Impairment,False
+2 (54).jpg,Very Mild Impairment,Mild Impairment,False
+2 (58).jpg,Very Mild Impairment,Very Mild Impairment,True
+2 (59).jpg,Very Mild Impairment,Very Mild Impairment,True
+2 (64).jpg,Very Mild Impairment,Mild Impairment,False
+2 (66).jpg,Very Mild Impairment,Very Mild Impairment,True
+2.jpg,Very Mild Impairment,Mild Impairment,False
+20 (14).jpg,Very Mild Impairment,No Impairment,False
+20 (15).jpg,Very Mild Impairment,No Impairment,False
+20 (19).jpg,Very Mild Impairment,Mild Impairment,False
+20 (22).jpg,Very Mild Impairment,Mild Impairment,False
+20 (27).jpg,Very Mild Impairment,No Impairment,False
+20 (30).jpg,Very Mild Impairment,No Impairment,False
+20 (32).jpg,Very Mild Impairment,Mild Impairment,False
+20 (4).jpg,Very Mild Impairment,Mild Impairment,False
+20 (44).jpg,Very Mild Impairment,No Impairment,False
+20 (45).jpg,Very Mild Impairment,Moderate Impairment,False
+20 (49).jpg,Very Mild Impairment,No Impairment,False
+20 (5).jpg,Very Mild Impairment,No Impairment,False
+20 (51).jpg,Very Mild Impairment,Very Mild Impairment,True
+20 (55).jpg,Very Mild Impairment,No Impairment,False
+20 (56).jpg,Very Mild Impairment,No Impairment,False
+20 (6).jpg,Very Mild Impairment,No Impairment,False
+20 (63).jpg,Very Mild Impairment,No Impairment,False
+20 (65).jpg,Very Mild Impairment,Moderate Impairment,False
+20 (67).jpg,Very Mild Impairment,Very Mild Impairment,True
+20 (69).jpg,Very Mild Impairment,No Impairment,False
+20 (8).jpg,Very Mild Impairment,No Impairment,False
+21 (10).jpg,Very Mild Impairment,No Impairment,False
+21 (18).jpg,Very Mild Impairment,Very Mild Impairment,True
+21 (20).jpg,Very Mild Impairment,No Impairment,False
+21 (42).jpg,Very Mild Impairment,Moderate Impairment,False
+21 (43).jpg,Very Mild Impairment,Mild Impairment,False
+21 (54).jpg,Very Mild Impairment,No Impairment,False
+21 (66).jpg,Very Mild Impairment,Mild Impairment,False
+21 (69).jpg,Very Mild Impairment,Very Mild Impairment,True
+22 (16).jpg,Very Mild Impairment,No Impairment,False
+22 (17).jpg,Very Mild Impairment,No Impairment,False
+22 (21).jpg,Very Mild Impairment,No Impairment,False
+22 (31).jpg,Very Mild Impairment,No Impairment,False
+22 (34).jpg,Very Mild Impairment,No Impairment,False
+22 (37).jpg,Very Mild Impairment,No Impairment,False
+22 (4).jpg,Very Mild Impairment,No Impairment,False
+22 (46).jpg,Very Mild Impairment,Mild Impairment,False
+22 (50).jpg,Very Mild Impairment,No Impairment,False
+22 (55).jpg,Very Mild Impairment,No Impairment,False
+22.jpg,Very Mild Impairment,Mild Impairment,False
+23 (10).jpg,Very Mild Impairment,No Impairment,False
+23 (11).jpg,Very Mild Impairment,No Impairment,False
+23 (18).jpg,Very Mild Impairment,Mild Impairment,False
+23 (19).jpg,Very Mild Impairment,Mild Impairment,False
+23 (3).jpg,Very Mild Impairment,No Impairment,False
+23 (30).jpg,Very Mild Impairment,No Impairment,False
+23 (40).jpg,Very Mild Impairment,Mild Impairment,False
+23 (41).jpg,Very Mild Impairment,No Impairment,False
+23 (57).jpg,Very Mild Impairment,Very Mild Impairment,True
+23 (6).jpg,Very Mild Impairment,No Impairment,False
+23 (64).jpg,Very Mild Impairment,No Impairment,False
+23 (67).jpg,Very Mild Impairment,Mild Impairment,False
+23 (69).jpg,Very Mild Impairment,No Impairment,False
+23 (8).jpg,Very Mild Impairment,No Impairment,False
+24 (13).jpg,Very Mild Impairment,Very Mild Impairment,True
+24 (14).jpg,Very Mild Impairment,No Impairment,False
+24 (16).jpg,Very Mild Impairment,No Impairment,False
+24 (17).jpg,Very Mild Impairment,No Impairment,False
+24 (18).jpg,Very Mild Impairment,Very Mild Impairment,True
+24 (19).jpg,Very Mild Impairment,Mild Impairment,False
+24 (26).jpg,Very Mild Impairment,No Impairment,False
+24 (30).jpg,Very Mild Impairment,No Impairment,False
+24 (35).jpg,Very Mild Impairment,Mild Impairment,False
+24 (40).jpg,Very Mild Impairment,Mild Impairment,False
+24 (44).jpg,Very Mild Impairment,No Impairment,False
+24 (51).jpg,Very Mild Impairment,Very Mild Impairment,True
+24 (68).jpg,Very Mild Impairment,Mild Impairment,False
+24 (7).jpg,Very Mild Impairment,No Impairment,False
+25 (11).jpg,Very Mild Impairment,No Impairment,False
+25 (14).jpg,Very Mild Impairment,No Impairment,False
+25 (18).jpg,Very Mild Impairment,No Impairment,False
+25 (20).jpg,Very Mild Impairment,No Impairment,False
+25 (27).jpg,Very Mild Impairment,Very Mild Impairment,True
+25 (28).jpg,Very Mild Impairment,Mild Impairment,False
+25 (29).jpg,Very Mild Impairment,No Impairment,False
+25 (37).jpg,Very Mild Impairment,Mild Impairment,False
+25 (4).jpg,Very Mild Impairment,Very Mild Impairment,True
+25 (41).jpg,Very Mild Impairment,Very Mild Impairment,True
+25 (43).jpg,Very Mild Impairment,No Impairment,False
+25 (44).jpg,Very Mild Impairment,No Impairment,False
+25 (45).jpg,Very Mild Impairment,Moderate Impairment,False
+25 (47).jpg,Very Mild Impairment,No Impairment,False
+25 (48).jpg,Very Mild Impairment,No Impairment,False
+25 (50).jpg,Very Mild Impairment,No Impairment,False
+25 (57).jpg,Very Mild Impairment,No Impairment,False
+25 (58).jpg,Very Mild Impairment,No Impairment,False
+25 (59).jpg,Very Mild Impairment,No Impairment,False
+25 (66).jpg,Very Mild Impairment,Very Mild Impairment,True
+25 (69).jpg,Very Mild Impairment,Very Mild Impairment,True
+25 (7).jpg,Very Mild Impairment,No Impairment,False
+25 (70).jpg,Very Mild Impairment,Very Mild Impairment,True
+26 (13).jpg,Very Mild Impairment,No Impairment,False
+26 (14).jpg,Very Mild Impairment,No Impairment,False
+26 (2).jpg,Very Mild Impairment,No Impairment,False
+26 (24).jpg,Very Mild Impairment,Mild Impairment,False
+26 (28).jpg,Very Mild Impairment,No Impairment,False
+26 (34).jpg,Very Mild Impairment,Mild Impairment,False
+26 (44).jpg,Very Mild Impairment,Very Mild Impairment,True
+26 (47).jpg,Very Mild Impairment,Very Mild Impairment,True
+26 (59).jpg,Very Mild Impairment,No Impairment,False
+26 (64).jpg,Very Mild Impairment,Very Mild Impairment,True
+26 (66).jpg,Very Mild Impairment,Mild Impairment,False
+26 (67).jpg,Very Mild Impairment,Moderate Impairment,False
+27 (10).jpg,Very Mild Impairment,No Impairment,False
+27 (13).jpg,Very Mild Impairment,No Impairment,False
+27 (15).jpg,Very Mild Impairment,Very Mild Impairment,True
+27 (21).jpg,Very Mild Impairment,No Impairment,False
+27 (23).jpg,Very Mild Impairment,No Impairment,False
+27 (27).jpg,Very Mild Impairment,Mild Impairment,False
+27 (3).jpg,Very Mild Impairment,No Impairment,False
+27 (31).jpg,Very Mild Impairment,Very Mild Impairment,True
+27 (36).jpg,Very Mild Impairment,Mild Impairment,False
+27 (39).jpg,Very Mild Impairment,Very Mild Impairment,True
+27 (47).jpg,Very Mild Impairment,Mild Impairment,False
+27 (52).jpg,Very Mild Impairment,No Impairment,False
+27 (62).jpg,Very Mild Impairment,No Impairment,False
+27 (64).jpg,Very Mild Impairment,Very Mild Impairment,True
+28 (25).jpg,Very Mild Impairment,No Impairment,False
+28 (26).jpg,Very Mild Impairment,Mild Impairment,False
+28 (32).jpg,Very Mild Impairment,No Impairment,False
+28 (46).jpg,Very Mild Impairment,Moderate Impairment,False
+28 (51).jpg,Very Mild Impairment,Mild Impairment,False
+28 (60).jpg,Very Mild Impairment,No Impairment,False
+28 (63).jpg,Very Mild Impairment,No Impairment,False
+28 (64).jpg,Very Mild Impairment,Moderate Impairment,False
+28 (69).jpg,Very Mild Impairment,Very Mild Impairment,True
+28 (9).jpg,Very Mild Impairment,No Impairment,False
+29 (20).jpg,Very Mild Impairment,Mild Impairment,False
+29 (22).jpg,Very Mild Impairment,Very Mild Impairment,True
+29 (25).jpg,Very Mild Impairment,Very Mild Impairment,True
+29 (37).jpg,Very Mild Impairment,Mild Impairment,False
+29 (53).jpg,Very Mild Impairment,Mild Impairment,False
+29 (61).jpg,Very Mild Impairment,No Impairment,False
+29 (63).jpg,Very Mild Impairment,No Impairment,False
+29 (64).jpg,Very Mild Impairment,Moderate Impairment,False
+29 (69).jpg,Very Mild Impairment,No Impairment,False
+29 (8).jpg,Very Mild Impairment,Mild Impairment,False
+29 (9).jpg,Very Mild Impairment,No Impairment,False
+3 (13).jpg,Very Mild Impairment,Very Mild Impairment,True
+3 (16).jpg,Very Mild Impairment,Mild Impairment,False
+3 (31).jpg,Very Mild Impairment,Very Mild Impairment,True
+3 (33).jpg,Very Mild Impairment,No Impairment,False
+3 (36).jpg,Very Mild Impairment,Moderate Impairment,False
+3 (40).jpg,Very Mild Impairment,Mild Impairment,False
+3 (47).jpg,Very Mild Impairment,Very Mild Impairment,True
+3 (49).jpg,Very Mild Impairment,Mild Impairment,False
+3 (51).jpg,Very Mild Impairment,Mild Impairment,False
+3 (58).jpg,Very Mild Impairment,Very Mild Impairment,True
+3 (59).jpg,Very Mild Impairment,Very Mild Impairment,True
+3 (64).jpg,Very Mild Impairment,No Impairment,False
+3 (66).jpg,Very Mild Impairment,Moderate Impairment,False
+30 (10).jpg,Very Mild Impairment,No Impairment,False
+30 (11).jpg,Very Mild Impairment,No Impairment,False
+30 (12).jpg,Very Mild Impairment,No Impairment,False
+30 (13).jpg,Very Mild Impairment,No Impairment,False
+30 (14).jpg,Very Mild Impairment,Mild Impairment,False
+30 (22).jpg,Very Mild Impairment,Mild Impairment,False
+30 (23).jpg,Very Mild Impairment,No Impairment,False
+30 (26).jpg,Very Mild Impairment,Mild Impairment,False
+30 (27).jpg,Very Mild Impairment,No Impairment,False
+30 (37).jpg,Very Mild Impairment,Mild Impairment,False
+30 (39).jpg,Very Mild Impairment,Mild Impairment,False
+30 (43).jpg,Very Mild Impairment,Moderate Impairment,False
+30 (45).jpg,Very Mild Impairment,Very Mild Impairment,True
+30 (47).jpg,Very Mild Impairment,Very Mild Impairment,True
+30 (51).jpg,Very Mild Impairment,Mild Impairment,False
+30 (56).jpg,Very Mild Impairment,Mild Impairment,False
+30 (60).jpg,Very Mild Impairment,No Impairment,False
+30 (62).jpg,Very Mild Impairment,Mild Impairment,False
+30 (69).jpg,Very Mild Impairment,No Impairment,False
+30 (7).jpg,Very Mild Impairment,Mild Impairment,False
+31 (12).jpg,Very Mild Impairment,No Impairment,False
+31 (27).jpg,Very Mild Impairment,Mild Impairment,False
+31 (35).jpg,Very Mild Impairment,No Impairment,False
+31 (4).jpg,Very Mild Impairment,Mild Impairment,False
+31 (45).jpg,Very Mild Impairment,No Impairment,False
+31 (52).jpg,Very Mild Impairment,No Impairment,False
+31 (56).jpg,Very Mild Impairment,Mild Impairment,False
+31 (70).jpg,Very Mild Impairment,Very Mild Impairment,True
+32 (10).jpg,Very Mild Impairment,No Impairment,False
+32 (13).jpg,Very Mild Impairment,No Impairment,False
+32 (18).jpg,Very Mild Impairment,No Impairment,False
+32 (20).jpg,Very Mild Impairment,Very Mild Impairment,True
+32 (27).jpg,Very Mild Impairment,No Impairment,False
+32 (28).jpg,Very Mild Impairment,Mild Impairment,False
+32 (31).jpg,Very Mild Impairment,Very Mild Impairment,True
+32 (34).jpg,Very Mild Impairment,No Impairment,False
+32 (36).jpg,Very Mild Impairment,Mild Impairment,False
+32 (38).jpg,Very Mild Impairment,No Impairment,False
+32 (49).jpg,Very Mild Impairment,No Impairment,False
+32 (52).jpg,Very Mild Impairment,No Impairment,False
+32 (56).jpg,Very Mild Impairment,Mild Impairment,False
+32 (60).jpg,Very Mild Impairment,No Impairment,False
+32 (64).jpg,Very Mild Impairment,Very Mild Impairment,True
+32 (69).jpg,Very Mild Impairment,Mild Impairment,False
+32 (9).jpg,Very Mild Impairment,Very Mild Impairment,True
+4 (15).jpg,Very Mild Impairment,Mild Impairment,False
+4 (16).jpg,Very Mild Impairment,Moderate Impairment,False
+4 (17).jpg,Very Mild Impairment,Mild Impairment,False
+4 (21).jpg,Very Mild Impairment,Moderate Impairment,False
+4 (22).jpg,Very Mild Impairment,Very Mild Impairment,True
+4 (25).jpg,Very Mild Impairment,Very Mild Impairment,True
+4 (3).jpg,Very Mild Impairment,No Impairment,False
+4 (31).jpg,Very Mild Impairment,Very Mild Impairment,True
+4 (39).jpg,Very Mild Impairment,Moderate Impairment,False
+4 (41).jpg,Very Mild Impairment,Mild Impairment,False
+4 (44).jpg,Very Mild Impairment,Mild Impairment,False
+4 (48).jpg,Very Mild Impairment,Mild Impairment,False
+4 (58).jpg,Very Mild Impairment,Very Mild Impairment,True
+4 (6).jpg,Very Mild Impairment,No Impairment,False
+4 (66).jpg,Very Mild Impairment,Moderate Impairment,False
+4 (68).jpg,Very Mild Impairment,Moderate Impairment,False
+4 (8).jpg,Very Mild Impairment,Moderate Impairment,False
+4 (9).jpg,Very Mild Impairment,Moderate Impairment,False
+5 (12).jpg,Very Mild Impairment,No Impairment,False
+5 (25).jpg,Very Mild Impairment,Very Mild Impairment,True
+5 (28).jpg,Very Mild Impairment,Very Mild Impairment,True
+5 (29).jpg,Very Mild Impairment,Moderate Impairment,False
+5 (32).jpg,Very Mild Impairment,Very Mild Impairment,True
+5 (44).jpg,Very Mild Impairment,Very Mild Impairment,True
+5 (49).jpg,Very Mild Impairment,No Impairment,False
+5 (54).jpg,Very Mild Impairment,Moderate Impairment,False
+5 (64).jpg,Very Mild Impairment,No Impairment,False
+5 (67).jpg,Very Mild Impairment,Very Mild Impairment,True
+5 (9).jpg,Very Mild Impairment,Mild Impairment,False
+6 (3).jpg,Very Mild Impairment,Very Mild Impairment,True
+6 (30).jpg,Very Mild Impairment,Mild Impairment,False
+6 (40).jpg,Very Mild Impairment,Mild Impairment,False
+6 (46).jpg,Very Mild Impairment,Mild Impairment,False
+6 (53).jpg,Very Mild Impairment,Moderate Impairment,False
+6 (54).jpg,Very Mild Impairment,Moderate Impairment,False
+6 (58).jpg,Very Mild Impairment,Very Mild Impairment,True
+6 (59).jpg,Very Mild Impairment,Very Mild Impairment,True
+6 (60).jpg,Very Mild Impairment,Mild Impairment,False
+6 (61).jpg,Very Mild Impairment,Very Mild Impairment,True
+6 (63).jpg,Very Mild Impairment,Moderate Impairment,False
+6 (65).jpg,Very Mild Impairment,Moderate Impairment,False
+6 (69).jpg,Very Mild Impairment,Moderate Impairment,False
+6 (9).jpg,Very Mild Impairment,Mild Impairment,False
+7 (11).jpg,Very Mild Impairment,No Impairment,False
+7 (14).jpg,Very Mild Impairment,Moderate Impairment,False
+7 (15).jpg,Very Mild Impairment,Mild Impairment,False
+7 (19).jpg,Very Mild Impairment,Moderate Impairment,False
+7 (22).jpg,Very Mild Impairment,Very Mild Impairment,True
+7 (23).jpg,Very Mild Impairment,No Impairment,False
+7 (29).jpg,Very Mild Impairment,Very Mild Impairment,True
+7 (3).jpg,Very Mild Impairment,No Impairment,False
+7 (31).jpg,Very Mild Impairment,Moderate Impairment,False
+7 (32).jpg,Very Mild Impairment,No Impairment,False
+7 (39).jpg,Very Mild Impairment,Mild Impairment,False
+7 (47).jpg,Very Mild Impairment,Moderate Impairment,False
+7 (52).jpg,Very Mild Impairment,Mild Impairment,False
+7 (60).jpg,Very Mild Impairment,No Impairment,False
+7 (7).jpg,Very Mild Impairment,Mild Impairment,False
+8 (14).jpg,Very Mild Impairment,Mild Impairment,False
+8 (16).jpg,Very Mild Impairment,Very Mild Impairment,True
+8 (18).jpg,Very Mild Impairment,Very Mild Impairment,True
+8 (19).jpg,Very Mild Impairment,Moderate Impairment,False
+8 (2).jpg,Very Mild Impairment,Mild Impairment,False
+8 (24).jpg,Very Mild Impairment,Mild Impairment,False
+8 (26).jpg,Very Mild Impairment,No Impairment,False
+8 (28).jpg,Very Mild Impairment,No Impairment,False
+8 (3).jpg,Very Mild Impairment,No Impairment,False
+8 (40).jpg,Very Mild Impairment,Mild Impairment,False
+8 (55).jpg,Very Mild Impairment,Very Mild Impairment,True
+8 (57).jpg,Very Mild Impairment,Mild Impairment,False
+8 (59).jpg,Very Mild Impairment,Very Mild Impairment,True
+8 (63).jpg,Very Mild Impairment,Mild Impairment,False
+8 (68).jpg,Very Mild Impairment,Moderate Impairment,False
+8 (69).jpg,Very Mild Impairment,Very Mild Impairment,True
+8.jpg,Very Mild Impairment,Mild Impairment,False
+9 (15).jpg,Very Mild Impairment,Mild Impairment,False
+9 (17).jpg,Very Mild Impairment,No Impairment,False
+9 (22).jpg,Very Mild Impairment,No Impairment,False
+9 (23).jpg,Very Mild Impairment,Very Mild Impairment,True
+9 (25).jpg,Very Mild Impairment,Very Mild Impairment,True
+9 (30).jpg,Very Mild Impairment,Moderate Impairment,False
+9 (37).jpg,Very Mild Impairment,Mild Impairment,False
+9 (41).jpg,Very Mild Impairment,Moderate Impairment,False
+9 (45).jpg,Very Mild Impairment,Mild Impairment,False
+9 (52).jpg,Very Mild Impairment,No Impairment,False
+9 (57).jpg,Very Mild Impairment,Moderate Impairment,False
+9 (59).jpg,Very Mild Impairment,Very Mild Impairment,True
+9 (62).jpg,Very Mild Impairment,Very Mild Impairment,True
+9 (68).jpg,Very Mild Impairment,Mild Impairment,False
+9 (69).jpg,Very Mild Impairment,Very Mild Impairment,True
+1 (10).jpg,Mild Impairment,Very Mild Impairment,False
+1 (11).jpg,Mild Impairment,Very Mild Impairment,False
+1 (14).jpg,Mild Impairment,Mild Impairment,True
+1 (15).jpg,Mild Impairment,Moderate Impairment,False
+1 (2).jpg,Mild Impairment,Moderate Impairment,False
+1 (25).jpg,Mild Impairment,Moderate Impairment,False
+10 (12).jpg,Mild Impairment,Mild Impairment,True
+10 (2).jpg,Mild Impairment,Very Mild Impairment,False
+10 (7).jpg,Mild Impairment,Mild Impairment,True
+11 (10).jpg,Mild Impairment,Very Mild Impairment,False
+11 (14).jpg,Mild Impairment,Very Mild Impairment,False
+11 (22).jpg,Mild Impairment,Moderate Impairment,False
+11 (23).jpg,Mild Impairment,Mild Impairment,True
+11 (24).jpg,Mild Impairment,Mild Impairment,True
+11 (25).jpg,Mild Impairment,No Impairment,False
+11 (26).jpg,Mild Impairment,Very Mild Impairment,False
+11 (28).jpg,Mild Impairment,Very Mild Impairment,False
+12 (11).jpg,Mild Impairment,Very Mild Impairment,False
+12 (13).jpg,Mild Impairment,Moderate Impairment,False
+12 (16).jpg,Mild Impairment,No Impairment,False
+12 (23).jpg,Mild Impairment,Mild Impairment,True
+12 (3).jpg,Mild Impairment,Mild Impairment,True
+13 (14).jpg,Mild Impairment,Very Mild Impairment,False
+13 (22).jpg,Mild Impairment,Mild Impairment,True
+13 (27).jpg,Mild Impairment,Very Mild Impairment,False
+13 (3).jpg,Mild Impairment,Mild Impairment,True
+13 (6).jpg,Mild Impairment,Moderate Impairment,False
+13 (8).jpg,Mild Impairment,Very Mild Impairment,False
+14 (15).jpg,Mild Impairment,Moderate Impairment,False
+14 (23).jpg,Mild Impairment,Mild Impairment,True
+14 (28).jpg,Mild Impairment,Mild Impairment,True
+14 (7).jpg,Mild Impairment,Mild Impairment,True
+15 (14).jpg,Mild Impairment,Very Mild Impairment,False
+15 (21).jpg,Mild Impairment,Very Mild Impairment,False
+15 (24).jpg,Mild Impairment,Very Mild Impairment,False
+15 (27).jpg,Mild Impairment,No Impairment,False
+15 (4).jpg,Mild Impairment,Moderate Impairment,False
+16 (14).jpg,Mild Impairment,Very Mild Impairment,False
+16 (19).jpg,Mild Impairment,Very Mild Impairment,False
+16 (2).jpg,Mild Impairment,No Impairment,False
+16 (22).jpg,Mild Impairment,Mild Impairment,True
+16 (23).jpg,Mild Impairment,Mild Impairment,True
+16 (24).jpg,Mild Impairment,Mild Impairment,True
+16 (28).jpg,Mild Impairment,No Impairment,False
+17 (12).jpg,Mild Impairment,Mild Impairment,True
+17 (17).jpg,Mild Impairment,Very Mild Impairment,False
+17 (22).jpg,Mild Impairment,Mild Impairment,True
+18 (12).jpg,Mild Impairment,Mild Impairment,True
+18 (13).jpg,Mild Impairment,Mild Impairment,True
+18 (18).jpg,Mild Impairment,Mild Impairment,True
+18 (24).jpg,Mild Impairment,Very Mild Impairment,False
+18 (25).jpg,Mild Impairment,Mild Impairment,True
+18 (8).jpg,Mild Impairment,No Impairment,False
+19 (13).jpg,Mild Impairment,Mild Impairment,True
+19 (14).jpg,Mild Impairment,No Impairment,False
+19 (15).jpg,Mild Impairment,Mild Impairment,True
+19 (27).jpg,Mild Impairment,No Impairment,False
+2 (11).jpg,Mild Impairment,Very Mild Impairment,False
+2 (17).jpg,Mild Impairment,Mild Impairment,True
+2 (24).jpg,Mild Impairment,Mild Impairment,True
+2 (25).jpg,Mild Impairment,Very Mild Impairment,False
+2 (4).jpg,Mild Impairment,Very Mild Impairment,False
+20 (17).jpg,Mild Impairment,No Impairment,False
+20 (23).jpg,Mild Impairment,Mild Impairment,True
+20 (24).jpg,Mild Impairment,Very Mild Impairment,False
+20 (28).jpg,Mild Impairment,Mild Impairment,True
+20 (3).jpg,Mild Impairment,Very Mild Impairment,False
+20 (8).jpg,Mild Impairment,Mild Impairment,True
+20.jpg,Mild Impairment,No Impairment,False
+21 (16).jpg,Mild Impairment,No Impairment,False
+21 (17).jpg,Mild Impairment,No Impairment,False
+21 (18).jpg,Mild Impairment,No Impairment,False
+21 (19).jpg,Mild Impairment,No Impairment,False
+21 (26).jpg,Mild Impairment,Mild Impairment,True
+21 (27).jpg,Mild Impairment,Very Mild Impairment,False
+21 (4).jpg,Mild Impairment,Mild Impairment,True
+21 (9).jpg,Mild Impairment,Very Mild Impairment,False
+22 (13).jpg,Mild Impairment,Mild Impairment,True
+22 (14).jpg,Mild Impairment,No Impairment,False
+22 (18).jpg,Mild Impairment,Very Mild Impairment,False
+22 (27).jpg,Mild Impairment,Mild Impairment,True
+22 (28).jpg,Mild Impairment,Mild Impairment,True
+22 (3).jpg,Mild Impairment,No Impairment,False
+22 (5).jpg,Mild Impairment,Mild Impairment,True
+23 (10).jpg,Mild Impairment,No Impairment,False
+23 (14).jpg,Mild Impairment,No Impairment,False
+23 (20).jpg,Mild Impairment,Very Mild Impairment,False
+23 (24).jpg,Mild Impairment,No Impairment,False
+23 (27).jpg,Mild Impairment,Mild Impairment,True
+23 (3).jpg,Mild Impairment,No Impairment,False
+23 (9).jpg,Mild Impairment,Very Mild Impairment,False
+23.jpg,Mild Impairment,No Impairment,False
+24 (10).jpg,Mild Impairment,No Impairment,False
+24 (17).jpg,Mild Impairment,No Impairment,False
+24 (19).jpg,Mild Impairment,Very Mild Impairment,False
+24 (2).jpg,Mild Impairment,No Impairment,False
+24 (25).jpg,Mild Impairment,No Impairment,False
+24 (3).jpg,Mild Impairment,No Impairment,False
+24 (8).jpg,Mild Impairment,Very Mild Impairment,False
+24.jpg,Mild Impairment,No Impairment,False
+25 (15).jpg,Mild Impairment,Mild Impairment,True
+25 (22).jpg,Mild Impairment,Very Mild Impairment,False
+25 (23).jpg,Mild Impairment,Mild Impairment,True
+25 (24).jpg,Mild Impairment,Very Mild Impairment,False
+25 (25).jpg,Mild Impairment,No Impairment,False
+25 (8).jpg,Mild Impairment,No Impairment,False
+26 (15).jpg,Mild Impairment,Mild Impairment,True
+26 (18).jpg,Mild Impairment,Mild Impairment,True
+26 (21).jpg,Mild Impairment,Mild Impairment,True
+26 (23).jpg,Mild Impairment,Very Mild Impairment,False
+26 (24).jpg,Mild Impairment,No Impairment,False
+26 (25).jpg,Mild Impairment,Very Mild Impairment,False
+26 (3).jpg,Mild Impairment,No Impairment,False
+27 (14).jpg,Mild Impairment,Very Mild Impairment,False
+27 (7).jpg,Mild Impairment,No Impairment,False
+28 (15).jpg,Mild Impairment,Mild Impairment,True
+28 (17).jpg,Mild Impairment,No Impairment,False
+28 (19).jpg,Mild Impairment,No Impairment,False
+28 (24).jpg,Mild Impairment,No Impairment,False
+28 (25).jpg,Mild Impairment,No Impairment,False
+28 (28).jpg,Mild Impairment,No Impairment,False
+28 (9).jpg,Mild Impairment,Mild Impairment,True
+29 (19).jpg,Mild Impairment,No Impairment,False
+29 (4).jpg,Mild Impairment,No Impairment,False
+3 (24).jpg,Mild Impairment,Mild Impairment,True
+3 (5).jpg,Mild Impairment,Mild Impairment,True
+30 (20).jpg,Mild Impairment,Mild Impairment,True
+30 (22).jpg,Mild Impairment,Very Mild Impairment,False
+30 (26).jpg,Mild Impairment,No Impairment,False
+30 (4).jpg,Mild Impairment,No Impairment,False
+30 (7).jpg,Mild Impairment,No Impairment,False
+31 (14).jpg,Mild Impairment,Very Mild Impairment,False
+31 (17).jpg,Mild Impairment,No Impairment,False
+31 (21).jpg,Mild Impairment,Mild Impairment,True
+31 (23).jpg,Mild Impairment,Very Mild Impairment,False
+31 (28).jpg,Mild Impairment,No Impairment,False
+31 (8).jpg,Mild Impairment,No Impairment,False
+31 (9).jpg,Mild Impairment,Mild Impairment,True
+31.jpg,Mild Impairment,Mild Impairment,True
+32 (11).jpg,Mild Impairment,Mild Impairment,True
+32 (14).jpg,Mild Impairment,Very Mild Impairment,False
+32 (16).jpg,Mild Impairment,Mild Impairment,True
+32 (20).jpg,Mild Impairment,Mild Impairment,True
+32 (24).jpg,Mild Impairment,Very Mild Impairment,False
+32 (6).jpg,Mild Impairment,No Impairment,False
+4 (14).jpg,Mild Impairment,Mild Impairment,True
+4 (2).jpg,Mild Impairment,Mild Impairment,True
+4 (26).jpg,Mild Impairment,Very Mild Impairment,False
+4 (9).jpg,Mild Impairment,Mild Impairment,True
+5 (15).jpg,Mild Impairment,Mild Impairment,True
+5 (20).jpg,Mild Impairment,Mild Impairment,True
+5 (26).jpg,Mild Impairment,Very Mild Impairment,False
+5 (5).jpg,Mild Impairment,Very Mild Impairment,False
+6 (14).jpg,Mild Impairment,No Impairment,False
+6 (16).jpg,Mild Impairment,Mild Impairment,True
+6 (17).jpg,Mild Impairment,Mild Impairment,True
+6 (21).jpg,Mild Impairment,Very Mild Impairment,False
+6 (28).jpg,Mild Impairment,Mild Impairment,True
+6 (3).jpg,Mild Impairment,Mild Impairment,True
+6 (7).jpg,Mild Impairment,Mild Impairment,True
+7 (12).jpg,Mild Impairment,Very Mild Impairment,False
+7 (16).jpg,Mild Impairment,No Impairment,False
+7 (2).jpg,Mild Impairment,Very Mild Impairment,False
+7 (26).jpg,Mild Impairment,Very Mild Impairment,False
+7 (4).jpg,Mild Impairment,Mild Impairment,True
+8 (10).jpg,Mild Impairment,Very Mild Impairment,False
+8 (13).jpg,Mild Impairment,Very Mild Impairment,False
+8 (15).jpg,Mild Impairment,Moderate Impairment,False
+8 (18).jpg,Mild Impairment,Mild Impairment,True
+8 (21).jpg,Mild Impairment,Moderate Impairment,False
+8 (22).jpg,Mild Impairment,Mild Impairment,True
+8 (28).jpg,Mild Impairment,Moderate Impairment,False
+8 (3).jpg,Mild Impairment,Very Mild Impairment,False
+8 (9).jpg,Mild Impairment,Moderate Impairment,False
+8.jpg,Mild Impairment,Very Mild Impairment,False
+9 (11).jpg,Mild Impairment,Very Mild Impairment,False
+9 (16).jpg,Mild Impairment,No Impairment,False
+9 (2).jpg,Mild Impairment,No Impairment,False
+9 (5).jpg,Mild Impairment,Very Mild Impairment,False
+12.jpg,Moderate Impairment,Mild Impairment,False
+13 (2).jpg,Moderate Impairment,Moderate Impairment,True
+14.jpg,Moderate Impairment,Mild Impairment,False
+16 (2).jpg,Moderate Impairment,No Impairment,False
+17 (2).jpg,Moderate Impairment,No Impairment,False
+17.jpg,Moderate Impairment,No Impairment,False
+18.jpg,Moderate Impairment,No Impairment,False
+19.jpg,Moderate Impairment,No Impairment,False
+22 (2).jpg,Moderate Impairment,Mild Impairment,False
+27 (2).jpg,Moderate Impairment,Very Mild Impairment,False
+27.jpg,Moderate Impairment,No Impairment,False
+9 (2).jpg,Moderate Impairment,Moderate Impairment,True
