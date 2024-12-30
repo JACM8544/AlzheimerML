@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Ruta al dataset
-dataset_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\1Preparacion\train"
+dataset_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\Entrenamiento\train"
 
 
 # Función para cargar y preprocesar imágenes

@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Ruta al dataset
-dataset_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\1Preparacion\train"
+dataset_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\Entrenamiento\train"
 
 
 # Función para cargar y preprocesar imágenes
@@ -101,43 +101,3 @@ plt.imshow(cv2.cvtColor(colored_image, cv2.COLOR_BGR2RGB))  # Convertir BGR a RG
 plt.title(f"Grupos detectados: {num_groups}")
 plt.axis('off')
 plt.show()
-
-
-def analyze_image(image):
-    # Aplicar umbral binario
-    _, binary = cv2.threshold(image, 127, 255, cv2.THRESH_BINARY)
-
-    # Detectar contornos
-    contours, _ = cv2.findContours(binary, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-
-    # Calcular métricas
-    num_groups = len(contours)
-    areas = [cv2.contourArea(cnt) for cnt in contours]
-
-    if areas:  # Evitar errores si no hay áreas detectadas
-        area_avg = np.mean(areas)
-        area_max = np.max(areas)
-        area_min = np.min(areas)
-        area_std = np.std(areas)
-    else:
-        area_avg, area_max, area_min, area_std = 0, 0, 0, 0
-
-    return {
-        "num_groups": num_groups,
-        "area_avg": area_avg,
-        "area_max": area_max,
-        "area_min": area_min,
-        "area_std": area_std
-    }
-
-
-# Analizar todas las imágenes
-stats = []
-for img, label in zip(images, labels):
-    image_stats = analyze_image(img)
-    image_stats["label"] = label
-    stats.append(image_stats)
-
-# Mostrar resultados para las primeras imágenes
-for i, stat in enumerate(stats[:5]):
-    print(f"Imagen {i + 1}: {stat}")

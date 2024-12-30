@@ -2,7 +2,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 import pandas as pd
 
 # Ruta del CSV con las estadísticas
-input_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\1Preparacion\4image_stats.csv"
+input_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\Entrenamiento\4image_stats.csv"
 
 # Cargar los datos
 data = pd.read_csv(input_path)
@@ -28,8 +28,8 @@ print(y_encoded[:5])
 
 # Guardar el escalador y el codificador para uso futuro
 import joblib
-scaler_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\1Preparacion\scaler.pkl"
-encoder_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\1Preparacion\encoder.pkl"
+scaler_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\Entrenamiento\scaler.pkl"
+encoder_path = r"C:\Users\Technologic PC\PycharmProjects\AlzheimerML\Alzheimer\Entrenamiento\encoder.pkl"
 joblib.dump(scaler, scaler_path)
 joblib.dump(encoder, encoder_path)
 
